@@ -12,7 +12,7 @@ const bioData = [
         subdesc: 'Pain built me, silence guards me.',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
-        newProduct: true,
+        newProduct: false,
         author: 'ziell',
         authorURL: 'https://instagram.com/ziellst_',
         footerText: 'made by'
