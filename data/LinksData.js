@@ -139,7 +139,7 @@ const webLinks = [
     {
         title: 'Instagram',
         url: 'https://instagram.com/ziellst_',
-        type: 'other',
+        type: 'install',
         icon: '/insta.svg',
         on: true
     },
