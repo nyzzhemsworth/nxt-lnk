@@ -13,7 +13,7 @@ const webLinks = [
         url: 'https://instagram.com/ziellst_',
         type: 'social',
         icon: '/insta.svg',
-        on: true
+        on: false
     },
     {
         title: 'Dribbble',
@@ -111,7 +111,7 @@ const webLinks = [
         title: 'Channel Preset',
         url: 'https://whatsapp.com/channel/0029Vb26nlxLNSZxPZjhIu2G',
         type: 'install',
-        icon: '/whatsapp.png',
+        icon: '/whatsapp.svg',
         on: true
     },
     {
@@ -137,11 +137,11 @@ const webLinks = [
     },
 
     {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
+        title: 'Instagram',
+        url: 'https://instagram.com/ziellst_',
         type: 'other',
-        icon: '/bmc.png',
-        on: false
+        icon: '/insta.svg',
+        on: true
     },
 
     {
