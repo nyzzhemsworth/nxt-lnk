@@ -6,11 +6,11 @@ const webLinks = [
         url: 'https://twitter.com/realvjy',
         type: 'social',
         icon: '/twitter.svg',
-        on: true
+        on: false
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/ziellst_',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -34,7 +34,7 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
@@ -48,7 +48,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -69,7 +69,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -108,17 +108,17 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: 'Channel Preset',
+        url: 'https://whatsapp.com/channel/0029Vb26nlxLNSZxPZjhIu2G',
         type: 'install',
-        icon: '/use.png',
+        icon: '/whatsapp.png',
         on: true
     },
     {
-        title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
+        title: 'buy am/capcut premium',
+        url: 'https://wa.me/6283897159514',
         type: 'install',
-        icon: '/vercel.svg',
+        icon: '/whatsapp.svg',
         on: true
     },
     {
@@ -126,13 +126,13 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
     {
-        title: 'Github',
-        url: 'https://github.com/realvjy/nxt-lnk',
+        title: 'TikTok',
+        url: 'https://tiktok.com/@jfxlee',
         type: 'install',
-        icon: '/github-fill.svg',
+        icon: '/tiktok.svg',
         on: true
     },
 
@@ -141,7 +141,7 @@ const webLinks = [
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: true
+        on: false
     },
 
     {
@@ -149,7 +149,7 @@ const webLinks = [
         url: 'https://vjy.me/lnk',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 
     {
@@ -157,7 +157,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 ];
 
