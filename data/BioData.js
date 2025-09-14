@@ -1,20 +1,20 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Ziell Acklesmith.',
+        username: '@jfxlee',
+        url: 'https://ziell.my.id',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'I don’t chase sympathy. I keep walking, even when every step hurts — because in the end, no one truly understands but me. ',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: 'Pain built me, silence guards me.',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        author: 'ziell',
+        authorURL: 'https://instagram.com/ziellst_',
         footerText: 'made by'
     },
 ];
