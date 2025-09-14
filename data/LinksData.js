@@ -110,14 +110,14 @@ const webLinks = [
     {
         title: 'Channel Preset',
         url: 'https://whatsapp.com/channel/0029Vb26nlxLNSZxPZjhIu2G',
-        type: 'install',
+        type: 'other',
         icon: '/whatsapp.svg',
         on: true
     },
     {
         title: 'buy am/capcut premium',
         url: 'https://wa.me/6283897159514',
-        type: 'install',
+        type: 'other',
         icon: '/whatsapp.svg',
         on: true
     },
@@ -131,7 +131,7 @@ const webLinks = [
     {
         title: 'TikTok',
         url: 'https://tiktok.com/@jfxlee',
-        type: 'install',
+        type: 'social',
         icon: '/tiktok.svg',
         on: true
     },
@@ -139,7 +139,7 @@ const webLinks = [
     {
         title: 'Instagram',
         url: 'https://instagram.com/ziellst_',
-        type: 'install',
+        type: 'social',
         icon: '/insta.svg',
         on: true
     },
