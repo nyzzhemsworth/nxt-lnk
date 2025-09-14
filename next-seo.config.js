@@ -1,24 +1,36 @@
 export default {
-    openGraph: {
-        type: 'website',
-        locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
-        locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
-        images: [
-            {
-                width: 1200,
-                height: 630,
-                url: `https://vjy.me/preview.jpg`,
-            },
-        ],
-        site_name: 'realvjy',
-    },
-    twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
-        cardType: 'summary_large_image',
-    },
+  titleTemplate: "ziell | @jfxlee",
+  defaultTitle: "ZIELL AMP",
+  description:
+    "Aku mah pemula.",
+  canonical: "https://ziell.my.id",
+  openGraph: {
+    type: "website",
+    locale: "id_ID",
+    url: "https://ziell.my.id",
+    site_name: "ZIELL AMP",
+    title: "Ziell | @jfxlee",
+    description:
+      "Hai, pemula disini.",
+    images: [
+      {
+        url: "https://files.catbox.moe/ebwten.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Ziell Preview",
+      },
+    ],
+  },
+  twitter: {
+    handle: "@ziellamp", // kalau ada
+    site: "@ziellamp",
+    cardType: "summary_large_image",
+  },
+  additionalMetaTags: [
+    { name: "keywords", content: "ziell, preset, alight motion, preset am, tiktok" },
+    { name: "theme-color", content: "#0f172a" },
+  ],
+  additionalLinkTags: [
+    { rel: "icon", href: "/favicon.ico" },
+  ],
 };
