@@ -109,7 +109,7 @@ const webLinks = [
     // Install section
     {
         title: 'Channel Preset',
-        url: 'https://whatsapp.com/channel/0029Vb26nlxLNSZxPZjhIu2G',
+        url: 'https://whatsapp.com/channel/0029VbBJNuRCBtxAWELAph3b',
         type: 'other',
         icon: '/whatsapp.svg',
         on: true
