@@ -7,7 +7,7 @@ const bioData = [
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'I don’t chase sympathy. I keep walking, even when every step hurts — because in the end, no one truly understands but me. ',
+        description: 'I don’t chase sympathy. I keep walking, even when every step hurts — because in the end, no one truly understands besides me. ',
         descShow: true,
         subdesc: 'Pain built me, silence guards me.',
         subdescShow: true,
