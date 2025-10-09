@@ -116,7 +116,7 @@ const webLinks = [
     },
     {
         title: 'buy am/capcut premium',
-        url: 'https://wa.me/6283897159514',
+        url: 'https://wa.me/18737103554',
         type: 'other',
         icon: '/whatsapp.svg',
         on: true
