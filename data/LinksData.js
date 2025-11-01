@@ -122,10 +122,10 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Documentation',
-        url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
-        type: 'install',
-        icon: '/doc.png',
+        title: 'Tempat jual beli aplikasi premium murah',
+        url: 'https://chat.whatsapp.com/EI6IdcsJVpz044vK2lDMsh',
+        type: 'other',
+        icon: '/whatsapp.svg',
         on: false
     },
     {
