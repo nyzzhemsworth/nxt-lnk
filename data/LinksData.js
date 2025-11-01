@@ -126,7 +126,7 @@ const webLinks = [
         url: 'https://chat.whatsapp.com/EI6IdcsJVpz044vK2lDMsh',
         type: 'other',
         icon: '/whatsapp.svg',
-        on: false
+        on: true
     },
     {
         title: 'TikTok',
