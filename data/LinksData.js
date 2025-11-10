@@ -109,14 +109,14 @@ const webLinks = [
     // Install section
     {
         title: 'Channel Preset',
-        url: 'https://whatsapp.com/channel/0029VbBJNuRCBtxAWELAph3b',
+        url: 'https://whatsapp.com/channel/0029VbBvd1vDp2Q84rAi3L1O',
         type: 'other',
         icon: '/whatsapp.svg',
         on: true
     },
     {
         title: 'buy am/capcut premium',
-        url: 'https://wa.me/18737103554',
+        url: 'https://wa.me/6283199312511',
         type: 'other',
         icon: '/whatsapp.svg',
         on: true
