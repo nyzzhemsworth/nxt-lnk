@@ -100,15 +100,15 @@ const webLinks = [
         on: false
     },
     {
-        title: 'new collection',
-        url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/opensea.svg',
-        on: false
+        title: 'Channel Preset Tele',
+        url: 'https://t.me/ziell4mp',
+        type: 'other',
+        icon: '/telegram.svg',
+        on: true
     },
     // Install section
     {
-        title: 'Channel Preset',
+        title: 'Channel Preset Wa',
         url: 'https://whatsapp.com/channel/0029VbBvd1vDp2Q84rAi3L1O',
         type: 'other',
         icon: '/whatsapp.svg',
