@@ -116,13 +116,13 @@ const webLinks = [
     },
     {
         title: 'buy am/capcut premium',
-        url: 'https://wa.me/6283199312511',
+        url: 'https://t.me/jafvierpena',
         type: 'other',
-        icon: '/whatsapp.svg',
+        icon: '/telegram.svg',
         on: true
     },
     {
-        title: 'Tempat jual beli aplikasi premium murah',
+        title: 'Tempat beli aplikasi premium murah',
         url: 'https://chat.whatsapp.com/EI6IdcsJVpz044vK2lDMsh',
         type: 'other',
         icon: '/whatsapp.svg',
