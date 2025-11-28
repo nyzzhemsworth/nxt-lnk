@@ -148,7 +148,7 @@ const webLinks = [
         title: 'Discord',
         url: 'https://discord.gg/aUEPZWaFe',
         type: 'social',
-        icon: '/vjy.png',
+        icon: '/discord.svg',
         on: true
     },
 
