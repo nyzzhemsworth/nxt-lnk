@@ -145,11 +145,11 @@ const webLinks = [
     },
 
     {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
-        type: 'other',
+        title: 'Discord',
+        url: 'https://discord.gg/aUEPZWaFe',
+        type: 'social',
         icon: '/vjy.png',
-        on: false
+        on: true
     },
 
     {
